@@ -108,7 +108,7 @@ More Information: http://eclemma.org/jacoco
 - Now build the job again and see how the trend chart of JaCoCo changes. 
 
 
-## Step 5: Warnings
+## Step 4: Warnings
 Warnings is a Jenkins plugin for static Analysis. It scans for warnings in console log or log files
 - Warnings Plug-in
 - Configure the job. Click on `add post-build action` and choose `Scan for compiler warnings`.
