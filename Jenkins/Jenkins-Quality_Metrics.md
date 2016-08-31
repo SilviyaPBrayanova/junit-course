@@ -1,4 +1,4 @@
-# Adding Jenkins-Quality_Metrics
+# Adding Quality Metrics
 
 ##Content
 Jenkins provides some very handy plugins to measure and track your software quality. In this exercise, you are going to learn to use FindBugs, PMD, JaCoCo and some other tools provided by Jenkins to review your codes from different perspectives. 
